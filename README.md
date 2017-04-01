@@ -4,3 +4,4 @@ To launch the notebook, run the following command from a terminal with anaconda3
 
     jupyter notebook AIND-Constraint_Satisfaction.ipynb# Constraint-Satisfaction
 # Constraint-Satisfaction
+# Constraint-Satisfaction
